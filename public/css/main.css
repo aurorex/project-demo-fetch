@@ -1,0 +1,18 @@
+.site-container{
+  margin: 30px 0;
+}
+
+#search-keyword{
+  outline: none;
+  border: 1px solid orange;
+  border-radius:2px;
+}
+
+#submit-btn{
+  border: none;
+  outline: none;
+  background: rgb(98, 98, 245);
+  color: white;
+}
+
+
